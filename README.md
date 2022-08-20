@@ -5,5 +5,5 @@ This program is a simple implementation of a scientific calculator, and how it f
 
 Following are the included functions:
 
-add, subtract, multiply, divide, sine, cosine, tan, arcsin, arccos, arctan, exponent, log, ln, square, square root, cube, cube root, x to the power y (x^y), Factorial.
+add, Subtract, Multiply, Divide, Sine, Cosine,Tan, arcsin, arccos, arctan, Exponent, log, ln, Square, Square root, x to the power y (x^y), Factorial.
 
